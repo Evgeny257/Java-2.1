@@ -1,5 +1,4 @@
 ### IntelliJ IDEA ###
-out
 .idea/
 *.iml
 ### Eclipse ###
@@ -25,7 +24,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea/workspace.xml
-.idea/workspace.xml
-.idea/workspace.xml
 .idea/workspace.xml
